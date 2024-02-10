@@ -5,7 +5,11 @@
 - Javascript
 - React
 - React Components
+- React Events
+- Props Drilling
+- Lifting State Up
 - useState Hook
+- Responsive Web Design
 
 
 ### Reference
